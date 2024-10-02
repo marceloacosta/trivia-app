@@ -3,6 +3,7 @@ import json
 import os
 import random
 import uuid
+import numpy
 
 import boto3
 import yaml
